@@ -1,4 +1,4 @@
-# my-project
+# vueproject
 
 > A Vue.js project
 
